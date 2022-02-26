@@ -1,4 +1,4 @@
-### Hi there, I'm Md Anjum Kamali - CodeWithAnjum👋
+### Hi there, I'm Md Anjum Kamali 👋
 
 
 ### I'm a Student, Developer !!
