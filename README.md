@@ -35,11 +35,9 @@
 <img>
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=mdanjumkamali&show_icons=true&theme=radical" /> 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdanjumkamali&layout=compact" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdanjumkamali&layout=compact" />
 
 
-
-
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdanjumakamli&" alt="mdanjumakamli" /></p>
 
  
