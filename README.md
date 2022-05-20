@@ -34,6 +34,7 @@
 
 <img>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdanjumkamali&layout=compact&theme=tokyonight" />
+<img>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=mdanjumkamali&show_icons=true&theme=tokyonight" /> 
 
 
