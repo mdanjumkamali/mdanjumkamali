@@ -34,8 +34,8 @@
 
 <img>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=mdanjumkamali&show_icons=true&theme=radical" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdanjumkamali&layout=compact" /></p>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=mdanjumkamali&show_icons=true&theme=radical" /> 
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdanjumkamali&layout=compact" />
 
 
 
