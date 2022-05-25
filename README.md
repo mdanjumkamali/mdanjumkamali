@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/md_anjum_kamali" target="blank"><img src="https://img.shields.io/twitter/follow/md_anjum_kamali?logo=twitter&style=for-the-badge" alt="md_anjum_kamali" /></a> </p>
 
-- 🌱 I’m currently learning **Full Stack !!**
+- 🌱 I’m currently learning **Front-End !!**
 
 - 👯 I’m looking to collaborate **with other content creators !!**
 
