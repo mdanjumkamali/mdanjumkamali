@@ -8,8 +8,6 @@
 
 - 📫 How to reach me **mdanjumkamali@gmail.com**
 
-- ⚡ Fun fact **I love to play Cricket !!**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.youtube.com/c/CodeWithAnjum" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="code with anjum" height="30" width="40" /></a>
